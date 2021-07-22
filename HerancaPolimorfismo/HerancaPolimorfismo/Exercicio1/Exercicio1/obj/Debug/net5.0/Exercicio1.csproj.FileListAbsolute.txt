@@ -1,0 +1,16 @@
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\Exercicio1.exe
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\Exercicio1.deps.json
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\Exercicio1.runtimeconfig.json
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\Exercicio1.runtimeconfig.dev.json
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\Exercicio1.dll
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\ref\Exercicio1.dll
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\bin\Debug\net5.0\Exercicio1.pdb
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.AssemblyInfo.cs
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.dll
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\ref\Exercicio1.dll
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.pdb
+C:\Users\Ancarus\source\repos\HerancaPolimorfismo\Exercicio1\Exercicio1\obj\Debug\net5.0\Exercicio1.genruntimeconfig.cache
