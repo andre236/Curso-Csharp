@@ -1,0 +1,16 @@
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ExcOrder.exe
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ExcOrder.deps.json
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ExcOrder.runtimeconfig.json
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ExcOrder.runtimeconfig.dev.json
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ExcOrder.dll
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ref\ExcOrder.dll
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\bin\Debug\net5.0\ExcOrder.pdb
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.csproj.AssemblyReference.cache
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.AssemblyInfoInputs.cache
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.AssemblyInfo.cs
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.csproj.CoreCompileInputs.cache
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.dll
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ref\ExcOrder.dll
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.pdb
+C:\Users\Ancarus\source\repos\ExcOrder\ExcOrder\obj\Debug\net5.0\ExcOrder.genruntimeconfig.cache
