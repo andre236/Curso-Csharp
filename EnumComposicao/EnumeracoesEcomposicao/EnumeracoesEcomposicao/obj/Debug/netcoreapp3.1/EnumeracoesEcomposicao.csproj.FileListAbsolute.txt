@@ -1,0 +1,13 @@
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\bin\Debug\netcoreapp3.1\EnumeracoesEcomposicao.exe
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\bin\Debug\netcoreapp3.1\EnumeracoesEcomposicao.deps.json
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\bin\Debug\netcoreapp3.1\EnumeracoesEcomposicao.runtimeconfig.json
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\bin\Debug\netcoreapp3.1\EnumeracoesEcomposicao.runtimeconfig.dev.json
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\bin\Debug\netcoreapp3.1\EnumeracoesEcomposicao.dll
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\bin\Debug\netcoreapp3.1\EnumeracoesEcomposicao.pdb
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.csproj.AssemblyReference.cache
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.AssemblyInfoInputs.cache
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.AssemblyInfo.cs
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.csproj.CoreCompileInputs.cache
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.dll
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.pdb
+C:\Users\Ancarus\source\repos\EnumeracoesEcomposicao\EnumeracoesEcomposicao\obj\Debug\netcoreapp3.1\EnumeracoesEcomposicao.genruntimeconfig.cache
