@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Ancarus\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Ancarus\\.nuget\\packages"
-    ]
-  }
-}
