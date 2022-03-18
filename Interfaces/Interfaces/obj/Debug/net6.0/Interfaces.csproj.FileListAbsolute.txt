@@ -1,0 +1,15 @@
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.exe
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\adr_h\source\repos\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
