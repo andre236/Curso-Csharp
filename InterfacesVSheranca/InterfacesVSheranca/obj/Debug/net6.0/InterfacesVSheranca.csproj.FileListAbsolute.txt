@@ -1,0 +1,15 @@
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\bin\Debug\net6.0\InterfacesVSheranca.exe
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\bin\Debug\net6.0\InterfacesVSheranca.deps.json
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\bin\Debug\net6.0\InterfacesVSheranca.runtimeconfig.json
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\bin\Debug\net6.0\InterfacesVSheranca.dll
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\bin\Debug\net6.0\ref\InterfacesVSheranca.dll
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\bin\Debug\net6.0\InterfacesVSheranca.pdb
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.csproj.AssemblyReference.cache
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.AssemblyInfoInputs.cache
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.AssemblyInfo.cs
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.csproj.CoreCompileInputs.cache
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.dll
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\ref\InterfacesVSheranca.dll
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.pdb
+C:\Users\adr_h\source\repos\InterfacesVSheranca\InterfacesVSheranca\obj\Debug\net6.0\InterfacesVSheranca.genruntimeconfig.cache
