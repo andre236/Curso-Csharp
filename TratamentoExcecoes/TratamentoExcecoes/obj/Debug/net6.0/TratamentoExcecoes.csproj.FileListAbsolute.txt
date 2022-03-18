@@ -1,0 +1,15 @@
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.exe
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.deps.json
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.runtimeconfig.json
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.dll
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\ref\TratamentoExcecoes.dll
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.pdb
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.AssemblyReference.cache
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.dll
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\ref\TratamentoExcecoes.dll
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.pdb
+C:\Users\adr_h\source\repos\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.genruntimeconfig.cache
