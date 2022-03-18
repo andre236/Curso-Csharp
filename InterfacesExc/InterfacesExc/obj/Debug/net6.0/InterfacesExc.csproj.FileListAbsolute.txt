@@ -1,0 +1,15 @@
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\bin\Debug\net6.0\InterfacesExc.exe
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\bin\Debug\net6.0\InterfacesExc.deps.json
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\bin\Debug\net6.0\InterfacesExc.runtimeconfig.json
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\bin\Debug\net6.0\InterfacesExc.dll
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\bin\Debug\net6.0\ref\InterfacesExc.dll
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\bin\Debug\net6.0\InterfacesExc.pdb
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.csproj.AssemblyReference.cache
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.AssemblyInfoInputs.cache
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.AssemblyInfo.cs
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.csproj.CoreCompileInputs.cache
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.dll
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\ref\InterfacesExc.dll
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.pdb
+C:\Users\adr_h\source\repos\InterfacesExc\InterfacesExc\obj\Debug\net6.0\InterfacesExc.genruntimeconfig.cache
