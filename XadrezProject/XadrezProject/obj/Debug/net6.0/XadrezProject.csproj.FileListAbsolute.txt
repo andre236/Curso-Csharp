@@ -1,0 +1,15 @@
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\bin\Debug\net6.0\XadrezProject.exe
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\bin\Debug\net6.0\XadrezProject.deps.json
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\bin\Debug\net6.0\XadrezProject.runtimeconfig.json
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\bin\Debug\net6.0\XadrezProject.dll
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\bin\Debug\net6.0\ref\XadrezProject.dll
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\bin\Debug\net6.0\XadrezProject.pdb
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.csproj.AssemblyReference.cache
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.AssemblyInfoInputs.cache
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.AssemblyInfo.cs
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.csproj.CoreCompileInputs.cache
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.dll
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\ref\XadrezProject.dll
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.pdb
+C:\Users\adr_h\source\repos\XadrezProject\XadrezProject\obj\Debug\net6.0\XadrezProject.genruntimeconfig.cache
