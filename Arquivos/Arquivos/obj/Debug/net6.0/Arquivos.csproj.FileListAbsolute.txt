@@ -1,0 +1,15 @@
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.exe
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.deps.json
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.runtimeconfig.json
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.dll
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\bin\Debug\net6.0\ref\Arquivos.dll
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\bin\Debug\net6.0\Arquivos.pdb
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfo.cs
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.dll
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\ref\Arquivos.dll
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.pdb
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.genruntimeconfig.cache
+C:\Users\adr_h\source\repos\Arquivos\Arquivos\obj\Debug\net6.0\Arquivos.csproj.AssemblyReference.cache
